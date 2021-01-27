@@ -10,6 +10,6 @@ This program choose one number random  and you have than guess it
 -Existen tres niveles: simple, intermedio, avanzado.  
 There are three levels of difficulty: simple, medium and advanced 
 
-Ejecuta lanzador.py y disfruta!  
-Run lanzador.py and enjoy!  
+Ejecuta "lanzador.py" y disfruta!  
+Run "lanzador.py" and enjoy!  
 :)
